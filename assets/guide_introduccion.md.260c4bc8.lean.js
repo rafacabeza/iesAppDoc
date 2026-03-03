@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a as i}from"./app.0f787b5e.js";const f=JSON.parse('{"title":"IesApp","description":"","frontmatter":{},"headers":[],"relativePath":"guide/introduccion.md"}'),s={name:"guide/introduccion.md"},t=i("",3),n=[t];function r(d,l,c,u,p,m){return o(),a("div",null,n)}const b=e(s,[["render",r]]);export{f as __pageData,b as default};
