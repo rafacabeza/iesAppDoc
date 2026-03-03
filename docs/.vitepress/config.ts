@@ -5,33 +5,47 @@ export default {
 
   themeConfig: {
     nav: [
-      { text: "Guía", link: "/guide/introduccion" },
-      // { text: "Backend", link: "/backend/laravel" },
-    //   { text: "Frontend", link: "/frontend/vue" },
-    //   { text: "Docker", link: "/docker/entorno" }
+      { text: "Bases", link: "/guide/introduccion" },
+      { text: "Enseñanza", link: "/enseñanza/alumnos" },
+      { text: "FP", link: "/fp/vue" },
+      { text: "Utilidades", link: "/docker/entorno" }
     ],
 
     sidebar: {
       "/guide/": [
         {
-          text: "Guía",
+          text: "Bases",
           items: [
             { text: "Introducción", link: "/guide/introduccion" },
-            { text: "Despliegue", link: "/guide/despliegue" }
+            { text: "Integración", link: "/guide/integracion" },
+            { text: "Cero papel", link: "/guide/cero-papel" }
           ]
         }
       ],
 
-    //   "/backend/": [
-    //     {
-    //       text: "Backend",
-    //       items: [
-    //         { text: "Laravel", link: "/backend/laravel" },
-    //         { text: "API", link: "/backend/api" },
-    //         { text: "Base de datos", link: "/backend/base-de-datos" }
-    //       ]
-    //     }
-    //   ],
+      "/enseñanza/": [
+        {
+          text: "Enseñanza",
+          items: [
+            { text: "Alumnos", link: "/enseñanza/alumnos" },
+            { text: "Grupos", link: "/enseñanza/grupos" },
+            { text: "Profesores", link: "/fp/encuestas" },
+            { text: "Aulas", link: "/enseñanza/aulas" }
+          ]
+        }
+      ],
+
+      "/fp/": [
+        {
+          text: "FP",
+          items: [
+            { text: "Encuestas", link: "/enseñanza/alumnos" },
+            { text: "Cuaderno del profesor", link: "/enseñanza/grupos" },
+            { text: "Empresas", link: "/enseñanza/profesores" },
+            { text: "Inasistencia", link: "/enseñanza/aulas" }
+          ]
+        }
+      ],      
     },
 
     // socialLinks: [
