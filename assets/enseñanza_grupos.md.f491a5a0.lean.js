@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,b as s}from"./app.99cd2489.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/grupos.md"}'),o={name:"ense\xF1anza/grupos.md"},n=s("p",null,"Laravel",-1),r=[n];function c(p,_,d,i,l,u){return a(),t("div",null,r)}const h=e(o,[["render",c]]);export{f as __pageData,h as default};
