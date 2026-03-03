@@ -6,7 +6,7 @@ export default {
   themeConfig: {
     nav: [
       { text: "Bases", link: "/guide/introduccion" },
-      { text: "Enseñanza", link: "/enseñanza/alumnos" },
+      { text: "Enseñanza", link: "/enseñanza/intro" },
       { text: "FP", link: "/fp/vue" },
       { text: "Utilidades", link: "/docker/entorno" }
     ],
@@ -27,6 +27,7 @@ export default {
         {
           text: "Enseñanza",
           items: [
+            { text: "Introducción", link: "/enseñanza/intro" },
             { text: "Alumnos", link: "/enseñanza/alumnos" },
             { text: "Grupos", link: "/enseñanza/grupos" },
             { text: "Profesores", link: "/fp/encuestas" },
