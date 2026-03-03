@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,b as s}from"./app.d1ea7b89.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/aulas.md"}'),n={name:"ense\xF1anza/aulas.md"},o=s("p",null,"Laravel",-1),r=[o];function c(_,l,d,p,i,u){return t(),a("div",null,r)}const h=e(n,[["render",c]]);export{f as __pageData,h as default};
