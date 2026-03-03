@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,b as s}from"./app.ddb5587c.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/guide/README.md"}'),a={name:"docs/guide/README.md"},c=s("p",null,"guide",-1),n=[c];function r(d,_,i,p,l,u){return o(),t("div",null,n)}const E=e(a,[["render",r]]);export{f as __pageData,E as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,b as r}from"./app.0f787b5e.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"backend/laravel.md"}'),o={name:"backend/laravel.md"},s=r("p",null,"Laravel",-1),n=[s];function c(l,_,d,p,i,m){return t(),a("div",null,n)}const v=e(o,[["render",c]]);export{u as __pageData,v as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a as i}from"./app.ddb5587c.js";const f=JSON.parse('{"title":"IesApp","description":"","frontmatter":{},"headers":[],"relativePath":"docs/guide/introduccion.md"}'),s={name:"docs/guide/introduccion.md"},t=i("",3),n=[t];function r(d,l,c,u,p,m){return o(),a("div",null,n)}const b=e(s,[["render",r]]);export{f as __pageData,b as default};
