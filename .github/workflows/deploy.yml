@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 20
       - run: npm install
-      - run: npm run docs:build # o "npx vitepress build"
+      - run: npm run build # o "npx vitepress build"
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
