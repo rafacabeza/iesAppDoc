@@ -6,7 +6,7 @@ export default {
   themeConfig: {
     nav: [
       { text: "Guía", link: "/guide/introduccion" },
-    //   { text: "Backend", link: "/backend/laravel" },
+      // { text: "Backend", link: "/backend/laravel" },
     //   { text: "Frontend", link: "/frontend/vue" },
     //   { text: "Docker", link: "/docker/entorno" }
     ],
@@ -17,23 +17,21 @@ export default {
           text: "Guía",
           items: [
             { text: "Introducción", link: "/guide/introduccion" },
-            { text: "Instalación", link: "/guide/instalacion" },
-            { text: "Arquitectura", link: "/guide/arquitectura" },
             { text: "Despliegue", link: "/guide/despliegue" }
           ]
         }
       ],
 
-      "/backend/": [
-        {
-          text: "Backend",
-          items: [
-            { text: "Laravel", link: "/backend/laravel" },
-            { text: "API", link: "/backend/api" },
-            { text: "Base de datos", link: "/backend/base-de-datos" }
-          ]
-        }
-      ],
+    //   "/backend/": [
+    //     {
+    //       text: "Backend",
+    //       items: [
+    //         { text: "Laravel", link: "/backend/laravel" },
+    //         { text: "API", link: "/backend/api" },
+    //         { text: "Base de datos", link: "/backend/base-de-datos" }
+    //       ]
+    //     }
+    //   ],
     },
 
     // socialLinks: [
