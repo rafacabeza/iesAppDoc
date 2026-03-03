@@ -1,7 +1,7 @@
 export default {
   title: "IesApp",
   description: "Proyecto Gestión Centro",
-  base: '/iesAppDoc/', // <--- Muy importante
+  base: '/iesAppDoc/',
 
   themeConfig: {
     nav: [
