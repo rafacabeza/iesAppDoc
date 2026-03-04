@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t,b as a}from"./app.1cfac776.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utilidades/avisos.md"}'),o={name:"utilidades/avisos.md"},i=a("p",null,"Avisos",-1),n=[i];function r(c,d,_,l,p,m){return t(),s("div",null,n)}const v=e(o,[["render",r]]);export{f as __pageData,v as default};

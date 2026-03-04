@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as i,a as n}from"./app.1cfac776.js";const v=JSON.parse('{"title":"Gesti\xF3n de inventario","description":"","frontmatter":{},"headers":[],"relativePath":"gestion/inventario.md"}'),o={name:"gestion/inventario.md"},t=n("",3),s=[t];function r(d,l,c,u,_,p){return i(),a("div",null,s)}const h=e(o,[["render",r]]);export{v as __pageData,h as default};

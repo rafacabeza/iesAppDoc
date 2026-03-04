@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a as n}from"./app.2545aded.js";const g=JSON.parse('{"title":"Procedimientos","description":"","frontmatter":{},"headers":[],"relativePath":"fp/extra.md"}'),s={name:"fp/extra.md"},r=n("",10),i=[r];function t(c,d,p,l,u,m){return o(),a("div",null,i)}const f=e(s,[["render",t]]);export{g as __pageData,f as default};

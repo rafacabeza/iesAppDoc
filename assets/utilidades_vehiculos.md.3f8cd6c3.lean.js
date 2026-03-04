@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,b as o}from"./app.1cfac776.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utilidades/vehiculos.md"}'),a={name:"utilidades/vehiculos.md"},c=o("p",null,"Vehiculos",-1),i=[c];function n(r,d,l,_,p,u){return s(),t("div",null,i)}const f=e(a,[["render",n]]);export{m as __pageData,f as default};

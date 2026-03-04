@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,b as n}from"./app.1cfac776.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/calendario.md"}'),o={name:"ense\xF1anza/calendario.md"},s=n("p",null,"Calendario",-1),r=[s];function c(d,i,_,l,p,m){return t(),a("div",null,r)}const h=e(o,[["render",c]]);export{u as __pageData,h as default};
