@@ -50,7 +50,7 @@ export default {
             { text: "Cuaderno del profesor", link: "/fp/cuaderno" },
             // { text: "Empresas", link: "/fp/empresas" },
             { text: "FCT/FEOE", link: "/fp/fct" },
-            { text: "Extra", link: "/fp/extra" }
+            { text: "Procedimientos", link: "/fp/extra" }
           ]
         }
       ],
