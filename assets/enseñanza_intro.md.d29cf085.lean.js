@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a as n}from"./app.2545aded.js";const h=JSON.parse('{"title":"Introducci\xF3n","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/intro.md"}'),o={name:"ense\xF1anza/intro.md"},t=n("",5),i=[t];function r(d,c,l,p,u,_){return s(),a("div",null,i)}const f=e(o,[["render",r]]);export{h as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as s,a as o}from"./app.e1dfcef5.js";const f=JSON.parse('{"title":"Aulas","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/aulas.md"}'),r={name:"ense\xF1anza/aulas.md"},n=o("",8),l=[n];function t(d,i,p,c,u,_){return s(),e("div",null,l)}const h=a(r,[["render",t]]);export{f as __pageData,h as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as s,a as n}from"./app.e1dfcef5.js";const g=JSON.parse('{"title":"Disciplina","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/disciplina.md"}'),o={name:"ense\xF1anza/disciplina.md"},i=n("",10),t=[i];function r(c,d,p,l,u,m){return s(),a("div",null,t)}const f=e(o,[["render",r]]);export{g as __pageData,f as default};

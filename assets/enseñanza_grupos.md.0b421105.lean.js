@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a as i}from"./app.2545aded.js";const g=JSON.parse('{"title":"Grupos","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/grupos.md"}'),r={name:"ense\xF1anza/grupos.md"},o=i("",6),n=[o];function l(t,p,d,c,u,_){return s(),a("div",null,n)}const f=e(r,[["render",l]]);export{g as __pageData,f as default};
