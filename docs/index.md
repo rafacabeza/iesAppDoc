@@ -23,8 +23,8 @@ features:
     details: Todo lo que el profesorado y alumnado necesita en un solo lugar.
     link: /guide/integracion
   - icon: 💎
-    title: Gestión de Calidad Ágilr
-    details: Todo para cumplir estándares de calidad sin esfuerzo.
+    title: Gestión de Calidad Ágil
+    details: Convierte la carga burocrática en un proceso fluido. Todo para cumplir estándares de calidad sin esfuerzo.
     link: /guide/calidad
 
 ---
