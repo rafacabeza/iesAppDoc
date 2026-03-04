@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Comenzar
-      link: /guide/
+      link: /guide/introduccion
 ---
 
 <style>
