@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a as r}from"./app.1cfac776.js";const _=JSON.parse('{"title":"Profesores","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/profesores.md"}'),s={name:"ense\xF1anza/profesores.md"},i=r("",9),n=[i];function t(l,c,d,p,u,m){return o(),a("div",null,n)}const g=e(s,[["render",t]]);export{_ as __pageData,g as default};
