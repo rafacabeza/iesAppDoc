@@ -62,6 +62,7 @@ export default {
             { text: "Inventario", link: "/gestion/inventario" },
             { text: "Averías", link: "/gestion/averias" },
             { text: "Facturas", link: "/gestion/facturas" },
+            { text: "Tesorería", link: "/gestion/tesoreria" },
             { text: "TPV", link: "/gestion/tpv" },
             { text: "Entradas/salidas", link: "/gestion/entradas-salidas" },
           ]
