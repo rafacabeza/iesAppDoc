@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a as s}from"./app.e1dfcef5.js";const h=JSON.parse('{"title":"Introducci\xF3n","description":"","frontmatter":{},"headers":[],"relativePath":"gestion/intro.md"}'),t={name:"gestion/intro.md"},i=s("",6),n=[i];function r(c,l,d,u,p,m){return o(),a("div",null,n)}const f=e(t,[["render",r]]);export{h as __pageData,f as default};

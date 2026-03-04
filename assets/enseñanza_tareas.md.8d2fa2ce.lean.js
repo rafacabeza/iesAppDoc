@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a as r}from"./app.e1dfcef5.js";const f=JSON.parse('{"title":"Distribuci\xF3n de tareas","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/tareas.md"}'),o={name:"ense\xF1anza/tareas.md"},n=r("",11),d=[n];function t(i,c,p,l,u,m){return s(),a("div",null,d)}const h=e(o,[["render",t]]);export{f as __pageData,h as default};

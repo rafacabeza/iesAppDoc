@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,b as o}from"./app.9acbfe02.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/README.md"}'),s={name:"guide/README.md"},n=o("p",null,"guide",-1),r=[n];function c(d,_,i,p,l,u){return a(),t("div",null,r)}const E=e(s,[["render",c]]);export{f as __pageData,E as default};
