@@ -1,1 +1,1 @@
-PENDIENTE
+# Gestión de cobros por TPV

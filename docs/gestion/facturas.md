@@ -1,1 +1,1 @@
-PENDIENTE
+# Gestión de facturas y documentos contables

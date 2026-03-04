@@ -1,1 +1,1 @@
-PENDIENTE
+# Gestión de archivo: Entradas y Salidas

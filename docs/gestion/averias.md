@@ -1,1 +1,1 @@
-PENDIENTE
+# Gestión de averías

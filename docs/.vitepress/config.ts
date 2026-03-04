@@ -36,7 +36,8 @@ export default {
             { text: "Aulas", link: "/enseñanza/aulas" },
             { text: "Ausencias", link: "/enseñanza/ausencias" },
             { text: "Guardias", link: "/enseñanza/guardias" },
-            { text: "Notificaciones", link: "/enseñanza/notificaciones" }
+            { text: "Notificaciones", link: "/enseñanza/notificaciones" },
+            { text: "Tareas", link: "/enseñanza/tareas" }
           ]
         }
       ],
@@ -67,6 +68,7 @@ export default {
             { text: "Tesorería", link: "/gestion/tesoreria" },
             { text: "TPV", link: "/gestion/tpv" },
             { text: "Entradas/salidas", link: "/gestion/entradas-salidas" },
+            { text: "Proyectos", link: "/gestion/proyectos" },
           ]
         }
       ],
