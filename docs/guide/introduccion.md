@@ -1,5 +1,30 @@
 # IesApp
 
+```mermaid
+graph TD
+    Raiz[IesApp] --> A[Bases]
+    Raiz --> B[Hijo B]
+    A --> A1[Integración]
+    A --> A2[Calidad]
+    A --> A3[Cero Papel]
+    B --> B1[Nieto B1]
+    A1 --> C[xxxxx]
+    A2 --> C
+
+```
+bla bla
+
+```mermaid
+mindmap
+  root((IesApp))
+    Bases
+    Enseñanza
+    FP
+    Gestión
+    Utilidades
+```
+
+
 **Sistema de Gestión de Centro**
 
 - El trabajo diario en el IES Santiago Hernández gira en buena medida alrededor de IesApp. Facilita la vida a todos los miembros de la comunidad educativa, alumnos, profesores y personal no docente.

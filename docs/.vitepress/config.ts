@@ -1,6 +1,15 @@
-export default {
+import { withMermaid } from 'vitepress-plugin-mermaid' 
+
+
+
+export default withMermaid ({
   title: "IesApp",
   description: "Proyecto Gestión Centro",
+
+  mermaid: {
+    
+    // tema, etc.
+  },
   base: '/iesAppDoc/',
 
   themeConfig: {
@@ -87,4 +96,4 @@ export default {
       ],
     },
   }
-}
+})
