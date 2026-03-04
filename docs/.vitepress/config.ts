@@ -63,10 +63,10 @@ export default {
           items: [
             { text: "Introducción", link: "/gestion/intro" },
             { text: "Compras", link: "/gestion/compras" },
-            { text: "Inventario", link: "/gestion/inventario" },
-            { text: "Averías", link: "/gestion/averias" },
             { text: "Facturas", link: "/gestion/facturas" },
             { text: "Tesorería", link: "/gestion/tesoreria" },
+            { text: "Inventario", link: "/gestion/inventario" },
+            { text: "Averías", link: "/gestion/averias" },
             { text: "TPV", link: "/gestion/tpv" },
             { text: "Entradas/salidas", link: "/gestion/entradas-salidas" },
             { text: "Proyectos", link: "/gestion/proyectos" },
