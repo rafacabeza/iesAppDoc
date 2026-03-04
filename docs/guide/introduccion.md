@@ -1,6 +1,6 @@
 # IesApp
 
-**Sistema de Gestión de Centro**
+**Sistema Integral de Gestión Eficiente de Centro**
 
 - El trabajo diario en el IES Santiago Hernández gira en buena medida alrededor de IesApp. Facilita la vida a todos los miembros de la comunidad educativa, alumnos, profesores y personal no docente.
 - IesApp es un sistema informático creado por Rafael Cabeza, miembro del equipo directivo del IES Santiago Hernández desde julio de 2011.

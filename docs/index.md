@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "IesApp"
-  text: "Sistema integral de Gestión de Centro"
+  text: "Sistema Integral de Gestión Eficiente de Centro"
   tagline: El eje sobre el que gira el IES Santiago Hernández y la base para un centro digital, de calidad y con ambición de Papel Cero.
   # actions:
   #   - theme: brand
