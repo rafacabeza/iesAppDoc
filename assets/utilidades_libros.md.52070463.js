@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,b as o}from"./app.c694e2a1.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utilidades/libros.md"}'),a={name:"utilidades/libros.md"},r=o("p",null,"PENDIENTE",-1),n=[r];function c(i,d,l,_,p,m){return s(),t("div",null,n)}const h=e(a,[["render",c]]);export{f as __pageData,h as default};
