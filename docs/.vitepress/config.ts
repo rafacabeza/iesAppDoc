@@ -37,6 +37,7 @@ export default {
             { text: "Ausencias", link: "/enseñanza/ausencias" },
             { text: "Guardias", link: "/enseñanza/guardias" },
             { text: "Notificaciones", link: "/enseñanza/notificaciones" },
+            { text: "Disciplina", link: "/enseñanza/disciplina" },
             { text: "Tareas", link: "/enseñanza/tareas" }
           ]
         }
