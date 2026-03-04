@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,b as s}from"./app.e00c45c7.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gestion/tesoreria.md"}'),a={name:"gestion/tesoreria.md"},r=s("p",null,"PENDIENTE",-1),n=[r];function c(i,_,d,p,l,m){return o(),t("div",null,n)}const h=e(a,[["render",c]]);export{u as __pageData,h as default};

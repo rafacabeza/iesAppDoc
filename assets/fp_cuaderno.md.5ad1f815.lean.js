@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,b as o}from"./app.c694e2a1.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fp/cuaderno.md"}'),n={name:"fp/cuaderno.md"},r=o("p",null,"PENDIENTE",-1),s=[r];function c(d,_,p,i,l,f){return a(),t("div",null,s)}const h=e(n,[["render",c]]);export{m as __pageData,h as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,b as a}from"./app.c694e2a1.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fp/encuestas.md"}'),n={name:"fp/encuestas.md"},o=a("p",null,"PENDIENTE",-1),c=[o];function r(_,p,d,i,l,f){return s(),t("div",null,c)}const h=e(n,[["render",r]]);export{m as __pageData,h as default};

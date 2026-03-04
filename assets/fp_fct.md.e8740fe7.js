@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,b as o}from"./app.c694e2a1.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fp/fct.md"}'),s={name:"fp/fct.md"},c=o("p",null,"PENDIENTE",-1),n=[c];function r(_,p,d,f,i,l){return a(),e("div",null,n)}const h=t(s,[["render",r]]);export{u as __pageData,h as default};

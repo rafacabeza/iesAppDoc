@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,b as s}from"./app.e00c45c7.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gestion/facturas.md"}'),o={name:"gestion/facturas.md"},r=s("p",null,"PENDIENTE",-1),c=[r];function n(_,i,d,p,f,l){return a(),e("div",null,c)}const h=t(o,[["render",n]]);export{m as __pageData,h as default};
