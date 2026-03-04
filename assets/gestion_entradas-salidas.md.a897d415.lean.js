@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,b as s}from"./app.e00c45c7.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gestion/entradas-salidas.md"}'),n={name:"gestion/entradas-salidas.md"},o=s("p",null,"PENDIENTE",-1),r=[o];function c(d,i,_,l,p,m){return t(),a("div",null,r)}const h=e(n,[["render",c]]);export{u as __pageData,h as default};

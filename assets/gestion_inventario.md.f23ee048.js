@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n,b as o}from"./app.e99ad828.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gestion/inventario.md"}'),a={name:"gestion/inventario.md"},s=o("p",null,"PENDIENTE",-1),r=[s];function i(c,_,d,p,l,m){return n(),t("div",null,r)}const h=e(a,[["render",i]]);export{u as __pageData,h as default};

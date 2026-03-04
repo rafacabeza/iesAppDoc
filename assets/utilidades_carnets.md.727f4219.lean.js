@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,b as s}from"./app.e99ad828.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utilidades/carnets.md"}'),n={name:"utilidades/carnets.md"},o=s("p",null,"PENDIENTE",-1),r=[o];function c(d,i,_,l,p,m){return a(),t("div",null,r)}const h=e(n,[["render",c]]);export{f as __pageData,h as default};

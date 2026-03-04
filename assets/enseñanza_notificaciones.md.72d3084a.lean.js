@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as a,a as s}from"./app.e99ad828.js";const f=JSON.parse('{"title":"Notificaciones","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/notificaciones.md"}'),i={name:"ense\xF1anza/notificaciones.md"},n=s("",8),r=[n];function t(c,d,l,p,m,u){return a(),o("div",null,r)}const v=e(i,[["render",t]]);export{f as __pageData,v as default};
