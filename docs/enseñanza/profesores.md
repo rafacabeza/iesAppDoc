@@ -12,3 +12,10 @@ La información fundamental que tenemos de cada profesor es su horario. Los hora
 - Están siempre actualizados y disponibles para todo el claustro y conserjería.
 - Son la base del sistema de guardias
 - IesApp también ayuda con la modificación de horarios (FCT/FEOE) de forma coordinada entre jefatura y los profesores interesados. 
+
+**Correo corporativo**
+
+- IesApp genera un nombre único de correo corporativo. Evita duplicidades y aplica siempre un criterio.
+- Además genera los ficheros csv que permite dar de alta a todos los usuarios nuevos.
+- Los grupos de correo son algo cotidiano en todas las organizaciones. Mantenerlos actualizados es una tarea laboriosa y no siempre sencilla de realizar. IesApp permite que los profesores se asocien a los grupos en los que tiene interés. IesApp genera también el fichero csv para mantener los grupos de correo actualizados en los servicios de Google Workspace.
+

@@ -1,6 +1,6 @@
 # Importación y exportación de datos
 
-La importación de datos es fundamental para poder sincronizar datos de SIGAD a IesApp. En el menú de utilidades encontramos varias posibilidades:
+La importación de datos es fundamental para poder sincronizar datos de SIGAD a IesApp. En el menú de utilidades encontramos varias posibilidades que veremos a continuación. Además también se puede realizar la exportación de algunas informaciones interesantes.
 
 **Importación de alumnos y matrículas**
 
