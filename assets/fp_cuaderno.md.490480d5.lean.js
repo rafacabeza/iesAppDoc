@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as s,a as o}from"./app.836400c4.js";const f=JSON.parse('{"title":"Cuaderno del profesor","description":"","frontmatter":{},"headers":[],"relativePath":"fp/cuaderno.md"}'),r={name:"fp/cuaderno.md"},i=o("",16),n=[i];function d(l,c,t,u,p,m){return s(),a("div",null,n)}const h=e(r,[["render",d]]);export{f as __pageData,h as default};

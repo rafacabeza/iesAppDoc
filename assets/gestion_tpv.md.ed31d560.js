@@ -1,1 +1,0 @@
-import{_ as t,c as e,o,b as s}from"./app.836400c4.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gestion/tpv.md"}'),a={name:"gestion/tpv.md"},n=s("p",null,"PENDIENTE",-1),r=[n];function c(p,_,i,d,l,m){return o(),e("div",null,r)}const h=t(a,[["render",c]]);export{u as __pageData,h as default};

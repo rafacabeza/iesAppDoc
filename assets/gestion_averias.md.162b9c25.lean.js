@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,b as s}from"./app.836400c4.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gestion/averias.md"}'),o={name:"gestion/averias.md"},r=s("p",null,"PENDIENTE",-1),n=[r];function c(i,_,d,p,l,m){return a(),t("div",null,n)}const h=e(o,[["render",c]]);export{u as __pageData,h as default};

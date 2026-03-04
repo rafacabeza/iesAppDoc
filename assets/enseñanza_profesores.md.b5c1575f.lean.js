@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a as r}from"./app.836400c4.js";const _=JSON.parse('{"title":"Profesores","description":"","frontmatter":{},"headers":[],"relativePath":"ense\xF1anza/profesores.md"}'),s={name:"ense\xF1anza/profesores.md"},i=r("",7),t=[i];function n(l,d,c,p,m,f){return o(),a("div",null,t)}const h=e(s,[["render",n]]);export{_ as __pageData,h as default};
