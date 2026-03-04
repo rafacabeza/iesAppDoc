@@ -1,6 +1,6 @@
 export default {
   title: "IesApp",
-  description: "Proyecto Gestión Centro",
+  description: "Sistema de Gestión de Centro",
   base: '/iesAppDoc/',
 
   themeConfig: {
@@ -38,6 +38,7 @@ export default {
             { text: "Guardias", link: "/enseñanza/guardias" },
             { text: "Notificaciones", link: "/enseñanza/notificaciones" },
             { text: "Disciplina", link: "/enseñanza/disciplina" },
+            { text: "Calendario", link: "/enseñanza/calendario" },
             { text: "Tareas", link: "/enseñanza/tareas" }
           ]
         }
@@ -82,6 +83,9 @@ export default {
             { text: "Carnets", link: "/utilidades/carnets" },
             { text: "Libros de texto", link: "/utilidades/libros" },
             { text: "Importación", link: "/utilidades/importacion" },
+            { text: "Avisos", link: "/utilidades/avisos" },
+            { text: "Vehículos", link: "/utilidades/vehiculos" },
+            { text: "Biblioteca", link: "/utilidades/biblioteca" },
           ]
         }
       ],
