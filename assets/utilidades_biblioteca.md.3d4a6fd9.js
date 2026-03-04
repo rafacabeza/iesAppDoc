@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,b as o}from"./app.1cfac776.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utilidades/biblioteca.md"}'),s={name:"utilidades/biblioteca.md"},i=o("p",null,"Biblioteca",-1),c=[i];function n(r,d,l,_,p,b){return a(),t("div",null,c)}const f=e(s,[["render",n]]);export{u as __pageData,f as default};
