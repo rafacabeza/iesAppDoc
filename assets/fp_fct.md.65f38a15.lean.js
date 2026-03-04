@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as s,a as o}from"./app.e99ad828.js";const f=JSON.parse('{"title":"FCT/FEOE","description":"","frontmatter":{},"headers":[],"relativePath":"fp/fct.md"}'),r={name:"fp/fct.md"},t=o("",9),n=[t];function i(c,l,p,d,m,u){return s(),a("div",null,n)}const h=e(r,[["render",i]]);export{f as __pageData,h as default};

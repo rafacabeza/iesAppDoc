@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as i,a as n}from"./app.e99ad828.js";const g=JSON.parse('{"title":"Calidad","description":"","frontmatter":{},"headers":[],"relativePath":"guide/calidad.md"}'),d={name:"guide/calidad.md"},o=n("",5),t=[o];function r(c,l,s,u,p,_){return i(),e("div",null,t)}const f=a(d,[["render",r]]);export{g as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a as o}from"./app.836400c4.js";const g=JSON.parse('{"title":"Integraci\xF3n","description":"","frontmatter":{},"headers":[],"relativePath":"guide/integracion.md"}'),n={name:"guide/integracion.md"},t=o("",6),r=[t];function i(c,d,l,p,m,u){return s(),a("div",null,r)}const f=e(n,[["render",i]]);export{g as __pageData,f as default};
