@@ -19,6 +19,7 @@ export default {
           items: [
             { text: "Introducción", link: "/guide/introduccion" },
             { text: "Integración", link: "/guide/integracion" },
+            { text: "Calidad", link: "/guide/calidad" },
             { text: "Cero papel", link: "/guide/cero-papel" }
           ]
         }
@@ -44,6 +45,7 @@ export default {
         {
           text: "FP",
           items: [
+            { text: "Introducción", link: "/fp/intro" },
             { text: "Encuestas", link: "/fp/encuestas" },
             { text: "Cuaderno del profesor", link: "/fp/cuaderno" },
             // { text: "Empresas", link: "/fp/empresas" },
