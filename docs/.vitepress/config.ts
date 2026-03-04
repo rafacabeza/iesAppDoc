@@ -7,8 +7,9 @@ export default {
     nav: [
       { text: "Bases", link: "/guide/introduccion" },
       { text: "Enseñanza", link: "/enseñanza/intro" },
-      { text: "FP", link: "/fp/vue" },
-      { text: "Utilidades", link: "/docker/entorno" }
+      { text: "FP", link: "/fp/intro" },
+      { text: "Gestión", link: "/gestion/intro" },
+      { text: "Utilidades", link: "/utilidades/intro" }
     ],
 
     sidebar: {
@@ -30,8 +31,11 @@ export default {
             { text: "Introducción", link: "/enseñanza/intro" },
             { text: "Alumnos", link: "/enseñanza/alumnos" },
             { text: "Grupos", link: "/enseñanza/grupos" },
-            { text: "Profesores", link: "/fp/encuestas" },
-            { text: "Aulas", link: "/enseñanza/aulas" }
+            { text: "Profesores", link: "/enseñanza/profesores" },
+            { text: "Aulas", link: "/enseñanza/aulas" },
+            { text: "Ausencias", link: "/enseñanza/ausencias" },
+            { text: "Guardias", link: "/enseñanza/guardias" },
+            { text: "Notificaciones", link: "/enseñanza/notificaciones" }
           ]
         }
       ],
@@ -40,17 +44,41 @@ export default {
         {
           text: "FP",
           items: [
-            { text: "Encuestas", link: "/enseñanza/alumnos" },
-            { text: "Cuaderno del profesor", link: "/enseñanza/grupos" },
-            { text: "Empresas", link: "/enseñanza/profesores" },
-            { text: "Inasistencia", link: "/enseñanza/aulas" }
+            { text: "Encuestas", link: "/fp/encuestas" },
+            { text: "Cuaderno del profesor", link: "/fp/cuaderno" },
+            // { text: "Empresas", link: "/fp/empresas" },
+            { text: "FCT/FEOE", link: "/fp/fct" },
+            { text: "Extra", link: "/fp/extra" }
           ]
         }
-      ],      
-    },
+      ],
 
-    // socialLinks: [
-    //   { icon: "github", link: "https://github.com/tuusuario" }
-    // ]
+      "/gestion/": [
+        {
+          text: "Gestión",
+          items: [
+            { text: "Introducción", link: "/gestion/intro" },
+            { text: "Compras", link: "/gestion/compras" },
+            { text: "Inventario", link: "/gestion/inventario" },
+            { text: "Averías", link: "/gestion/averias" },
+            { text: "Facturas", link: "/gestion/facturas" },
+            { text: "TPV", link: "/gestion/tpv" },
+            { text: "Entradas/salidas", link: "/gestion/entradas-salidas" },
+          ]
+        }
+      ],
+
+      "/utilidades/": [
+        {
+          text: "Utilidades",
+          items: [
+            { text: "Introducción", link: "/utilidades/intro" },
+            { text: "Carnets", link: "/utilidades/carnets" },
+            { text: "Libros de texto", link: "/utilidades/libros" },
+            { text: "Importación", link: "/utilidades/importacion" },
+          ]
+        }
+      ],
+    },
   }
 }
