@@ -10,6 +10,6 @@ Aunque IesApp no nació para dar soporte específico a las cuestiones de FP y de
     - Memoria de los módulos
 - Formación en empresas:
     - Gestión histórica de las empresas. Información histórica.
-    - Listado de prácticas de cada curso como base para la encuestas a las empresas.
+    - Listado de prácticas de cada curso como base para las encuestas de las empresas.
 - Gestión de las pérdidas de evaluación continua
 - Gestión de las  bajas por inasistencia

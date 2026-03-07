@@ -1,13 +1,13 @@
 # Avisos y enlaces
 
-**Avisos **
+**Avisos**
 
 En el panel de control del profesorado aparece un bloque de avisos que se usa para comunicar informaciones puntuales al profesorado:
-- Es una suerte de tablónde anuncios donde los avisos pueden ser de texto o incluir adjuntos y enlaces.
+- Es una suerte de tablón de anuncios donde los avisos pueden ser de texto o incluir adjuntos y enlaces.
 - Los avisos tienen un perido de vigencia en el que son visibles.
-- Se puede adjuntar documentos de interés: horarios de evaluaciones, 
+- Se pueden adjuntar documentos de interés, por ejemplo el horario de evaluaciones.
 
-**Enlaces **
+**Enlaces**
 
 Además existe un panel de enlaces donde se facilita el acceso a sitios de interés:
 
