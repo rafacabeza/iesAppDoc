@@ -14,5 +14,5 @@ Además existe un panel de enlaces donde se facilita el acceso a sitios de inter
 - Drive compartido a todo el profesorado
 - PDF con el anuario del último curso
 
-Estos enlaces se pueden hacer visibles a profesores  a alumnos de forma selectiva.
+Estos enlaces se pueden hacer visibles a profesores y a alumnos de forma selectiva.
 
