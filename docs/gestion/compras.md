@@ -10,4 +10,4 @@ En el caso de pedidos, conserjería ve la lista de compras pendientes para hacer
 
 Las compras permiten aportar la documentación que se necesite: presupuesto, albarán, factura, ... Una vez acabado el proceso, el interesado debe valorarlo con un sistema de 1 a 5 estrellas que permite evaluar al proveedor.
 
-Tras la valoración de la compra se puede cerrar la compra para pasar al proceso de pago. Esto enlaza con el apartado de facturas y documentos contables.
+Una vez realizada la valoración se puede cerrar la compra para pasar al proceso de pago. Esto enlaza con el apartado de facturas y documentos contables.

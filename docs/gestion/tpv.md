@@ -8,6 +8,6 @@ El funcionamiento es el siguiente:
 - Los pagos sólo los pueden realizar los usuarios de IesApp, alumnos y/o profesores, según se haya configurado el servicio.
 - El profesor organizador puede ver en tiempo real quien ha pagado en cualquier momento.
 
-En el Santiag Hernández se ha usado para pagar la matrícula, la cuota del AMPA, el banco de libros y multitud de actividades cada curso. 
+En el Santiago Hernández se ha usado para pagar la matrícula, la cuota del AMPA, el banco de libros y multitud de actividades cada curso. 
 
 El sistema se ha usado masivamente con IberCaja (sistema CECA), pero también puede ser usado con bancos del sistema Redsys.
