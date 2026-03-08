@@ -1,6 +1,6 @@
 # Gestión de compras
 
-La gestión de las compras es un asunto importante en un instituto, no sólo eso, es un procedimiento que se recoge en los procedimientos del Sistema de Calidad.
+La gestión de las compras es un asunto importante en un instituto, no sólo eso, es un procedimiento del Sistema de Calidad.
 
 IesApp da los mecanismos para que este proceso se realice de forma organizada. Se pueden registrar compras directas (en establecimientos) y pedidos que deben ser entregados por el proveedor en nuestras instalaciones.
 

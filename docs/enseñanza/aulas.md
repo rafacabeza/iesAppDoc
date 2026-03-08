@@ -4,7 +4,7 @@ La información de aulas es bastante reducida. No va más allá de un nombre y d
 
 **Horarios**
 
-Los horarios de las aulas está disponible para todo el personl del centro. Incluidos conserjes y limpiadores.
+Los horarios de las aulas está disponible para todo el personal del centro. Incluidos conserjes y limpiadores.
 
 Más allá del uso por parte del profesorado, es fundamental cuando conserjería debe localizar a un alumno o para que las limpiadoras sepan la ocupación del aula desde el día que se inician las clases.
 

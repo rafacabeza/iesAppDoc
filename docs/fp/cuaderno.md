@@ -21,17 +21,17 @@ Una vez realizada la programación es el momento de reflejar el seguimiento de l
 - Indicar si se ha impartido esa unidad u otra, o incluso si la sesión se ha cancelado (actividades complementarias, huelgas, ausencia del profesor, ...)
 - De manera opcional podemos hacer anotaciones sobre lo que ha ocurrido en la clase.
 - El seguimiento registrado se incorpora en el diagrama de Gantt, resumen de la actividad docente.
-- Cada unidad tiene un peso específico en relación al as horas asignadas por lo que podemos saber qué porcentaje de cada unidad se ha impartido en cada momento.
+- Cada unidad tiene un peso específico en relación a las horas asignadas por lo que podemos saber qué porcentaje de cada unidad se ha impartido en cada momento.
 
-Realizado este seguimiento, el cuaderno registra hitos mensuales  de seguiiento que recogen:
+Realizado este seguimiento, el cuaderno registra hitos mensuales  de seguiento que recogen:
 
 - Porcentaje de horas impartidas en relación a las programadas.
 - Porcentaje de contenidos global que se ha impartido al final de cada mes.
 
 **Calificaciones**
 
-Las calificaciones no se registran en el cuaderno. No se consideró viable por las diferentes estrategias para llevarlo a cabo. Lo que sí se recoge es el resumen de las mismas para saber el porcentaje de aprobados tras cada evaluación. Este es un indicador de Calidad para el se proceso de la labor docente.
+Las calificaciones no se registran en el cuaderno. No se consideró viable por las diferentes estrategias para llevarlo a cabo. Lo que sí se recoge es el resumen de las mismas para saber el porcentaje de aprobados tras cada evaluación. Este es un indicador de Calidad para el proceso de la labor docente.
 
 **Memoria**
 
-Al concluir el curso hay que hacer una valoración del curso. La memoria permite volorar de forma numérica y descriptiva varios aspectos de la labor realizada y de las dificultades encontradas.
+Al llegar junio hay que hacer una valoración del curso. La memoria permite volorar de forma numérica y descriptiva varios aspectos de la labor realizada y de las dificultades encontradas.

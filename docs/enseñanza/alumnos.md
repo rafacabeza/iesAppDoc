@@ -13,7 +13,7 @@ Son importantes porque son la base de:
 - Pago de actividades por TPV
 - Funcionalidades de FP (convalidaciones, FCT/FEOE, encuestas, ...)
 
-Cabe destacar que la facilidad de uso es la base para las sesiones de fotos que se hacen los dís de inicio de curso para completar las orlas de foto muy completas desde el inicio de las clases.
+Cabe destacar que la facilidad de uso es la base para las sesiones de fotos que se hacen los días de inicio de curso para disponer de orlas de fotos completas desde el inicio de las clases.
 
 **Correo corporativo**
 

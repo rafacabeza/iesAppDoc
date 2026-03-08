@@ -1,8 +1,8 @@
 # Integración
 
-En los insittutos contamos con dos aplicaciones informáticas, SIGAD y GIR. Son sistemas mejorables pero allí donde llegan el funcionamiento es razonablemente bueno. Sin embargo son sistemas escasos. Ambos cubren una parte importante de los sistemas de información de los insittutos pero obvian todo aquello que pudiera parecer secundario, especialmene aquello que no se ve desde la distancia de los servicios centrales.
+En los institutos contamos con dos aplicaciones informáticas, SIGAD y GIR. Son sistemas mejorables pero allí donde llegan, el funcionamiento es razonablemente bueno. Sin embargo son sistemas escasos. Ambos cubren una parte importante de los sistemas de información de los institutos pero obvian todo aquello que pudiera parecer secundario, especialmene aquello que no se ve desde la distancia de los servicios centrales.
 
-Es habitual usar numerosas herrmientas informáticas. Hojas de cálculo, servicios de Google y todo tipo de formatos y documentos. Mantener esta variedad de herramientas y estrategias dispares supone un gran esfuerzo para recuperar y organizar datos que deben ser exportados una y otra vez de SIGAD o GIR.
+Es habitual usar numerosas herramientas informáticas. Hojas de cálculo, servicios de Google y todo tipo de formatos y documentos. Mantener esta variedad de herramientas y estrategias dispares supone un gran esfuerzo para recuperar y organizar datos que deben ser exportados una y otra vez de SIGAD o GIR.
 
 Desde un punto de vista de la gestión de la calidad esto es nefasto. No es posible mantener un sistema de calidad fiable basado en estas prácticas.
 

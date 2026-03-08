@@ -4,7 +4,7 @@ IesApp permite mantener la información completa del claustro. Es un sistema de 
 
 **Plantilla**
 
-Además de ese servicio sencillo de directorio nos permite definir la **plantilla** actual en cada momento. Esta información sólo es visibe para jefatura. La plantilla está definida para cada curso y cada profesor ocupa una plaza de forma fija, de forma interina (de plantilla sin titular, de cupo sin titular o reserva del titular) o mediante sustitución. Esta información que esbásica no está en ningún sitio de los sistemas oficiales.
+Además de ese servicio sencillo de directorio nos permite definir la **plantilla** actual en cada momento. Esta información sólo es visibe para jefatura. La plantilla está definida para cada curso y cada profesor ocupa una plaza de forma fija, de forma interina (de plantilla sin titular, de cupo sin titular o reserva del titular) o mediante sustitución. Esta información que es básica no está en ningún sitio de los sistemas oficiales.
 
 **Horario**
 

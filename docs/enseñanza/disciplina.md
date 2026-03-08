@@ -12,8 +12,8 @@ IesApp permite importar periódicamente todas las incidencias registradas en SIG
 
 **Notificación y comunicación**
 
-Una vea registradas las conductas contrarias o gravemente perjudiciales se puede resolver con sanciones que deben ser comunicadas a las familias.
+Una vez registradas las conductas contrarias o gravemente perjudiciales se puede resolver con sanciones que deben ser comunicadas a las familias.
 
-IesApp envía notificación con los PDF correspondiente de los distintos pasos de acuerdo al a normativa actual. Las correcciones son enviadas a las familias y al equipo docente de manera que el profesorado está informado puntualmente.
+IesApp envía notificación con los PDF correspondiente de los distintos pasos de acuerdo a la normativa actual. Las correcciones son enviadas a las familias y al equipo docente de manera que el profesorado está informado puntualmente.
 
 Por último, el panel de control que ve cada profesor al acceder a IesApp muestra una lista de los alumnos que están recibiendo algún tipo de corrección a día de hoy.

@@ -10,7 +10,7 @@ IesApp recoge el calendario escolar del centro y sobre él se definen los evento
 
 **Actividades**
 
-- Las actividades complementarias son registradas en el calendario por  de los profesores que las organizan. Las actividades vienen marcadas por:
+- Las actividades complementarias son registradas en el calendario por los profesores que las organizan. Las actividades vienen marcadas por:
     - Fecha y hora de inicio y fin.
     - Profesores participantes
     - Grupos participantes y lista de alumnos que realmente participan.
