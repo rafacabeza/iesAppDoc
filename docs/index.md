@@ -35,51 +35,51 @@ features:
 
 <div class="footer-columns">
   <div class="column">
-    <h3><a href="/enseñanza/intro">Enseñanza</a></h3>
+    <h3><a href="enseñanza/intro">Enseñanza</a></h3>
     <ul>
-      <li><a href="/enseñanza/alumnos">Alumnos</a></li>
-      <li><a href="/enseñanza/grupos">Grupos</a></li>
-      <li><a href="/enseñanza/profesores">Profesores</a></li>
-      <li><a href="/enseñanza/aulas">Aulas</a></li>
-      <li><a href="/enseñanza/ausencias">Ausencias</a></li>
-      <li><a href="/enseñanza/guardias">Guardias</a></li>
-      <li><a href="/enseñanza/notificaciones">Notificaciones</a></li>
-      <li><a href="/enseñanza/disciplina">Disciplina</a></li>
-      <li><a href="/enseñanza/calendario">Calendario</a></li>
-      <li><a href="/enseñanza/tareas">Tareas</a></li>
+      <li><a href="enseñanza/alumnos">Alumnos</a></li>
+      <li><a href="enseñanza/grupos">Grupos</a></li>
+      <li><a href="enseñanza/profesores">Profesores</a></li>
+      <li><a href="enseñanza/aulas">Aulas</a></li>
+      <li><a href="enseñanza/ausencias">Ausencias</a></li>
+      <li><a href="enseñanza/guardias">Guardias</a></li>
+      <li><a href="enseñanza/notificaciones">Notificaciones</a></li>
+      <li><a href="enseñanza/disciplina">Disciplina</a></li>
+      <li><a href="enseñanza/calendario">Calendario</a></li>
+      <li><a href="enseñanza/tareas">Tareas</a></li>
     </ul>
   </div>
   <div class="column">
-    <h3><a href="/fp/intro">FP</a></h3>
+    <h3><a href="fp/intro">FP</a></h3>
     <ul>
-      <li><a href="/fp/encuestas">Encuestas</a></li>
-      <li><a href="/fp/cuaderno">Cuaderno del profesor</a></li>
-      <li><a href="/fp/fct">FCT/FEOE</a></li>
-      <li><a href="/fp/extra">Procedimientos</a></li>
+      <li><a href="fp/encuestas">Encuestas</a></li>
+      <li><a href="fp/cuaderno">Cuaderno del profesor</a></li>
+      <li><a href="fp/fct">FCT/FEOE</a></li>
+      <li><a href="fp/extra">Procedimientos</a></li>
     </ul>
   </div>
   <div class="column">
-    <h3><a href="/gestion/intro">Gestión</a></h3>
+    <h3><a href="gestion/intro">Gestión</a></h3>
     <ul>
-      <li><a href="/gestion/compras">Compras</a></li>
-      <li><a href="/gestion/facturas">Facturas</a></li>
-      <li><a href="/gestion/tesoreria">Tesorería</a></li>
-      <li><a href="/gestion/inventario">Inventario</a></li>
-      <li><a href="/gestion/averias">Averías</a></li>
-      <li><a href="/gestion/tpv">TPV</a></li>
-      <li><a href="/gestion/entradas-salidas">Entradas/salidas</a></li>
-      <li><a href="/gestion/proyectos">Proyectos</a></li>
+      <li><a href="gestion/compras">Compras</a></li>
+      <li><a href="gestion/facturas">Facturas</a></li>
+      <li><a href="gestion/tesoreria">Tesorería</a></li>
+      <li><a href="gestion/inventario">Inventario</a></li>
+      <li><a href="gestion/averias">Averías</a></li>
+      <li><a href="gestion/tpv">TPV</a></li>
+      <li><a href="gestion/entradas-salidas">Entradas/salidas</a></li>
+      <li><a href="gestion/proyectos">Proyectos</a></li>
     </ul>
   </div>
   <div class="column">
-    <h3><a href="/utilidades/intro">Utilidades</a></h3>
+    <h3><a href="utilidades/intro">Utilidades</a></h3>
     <ul>
-      <li><a href="/utilidades/carnets">Carnets</a></li>
-      <li><a href="/utilidades/libros">Libros de texto</a></li>
-      <li><a href="/utilidades/importacion">Importación</a></li>
-      <li><a href="/utilidades/avisos">Avisos</a></li>
-      <li><a href="/utilidades/vehiculos">Vehículos</a></li>
-      <li><a href="/utilidades/biblioteca">Biblioteca</a></li>
+      <li><a href="utilidades/carnets">Carnets</a></li>
+      <li><a href="utilidades/libros">Libros de texto</a></li>
+      <li><a href="utilidades/importacion">Importación</a></li>
+      <li><a href="utilidades/avisos">Avisos</a></li>
+      <li><a href="utilidades/vehiculos">Vehículos</a></li>
+      <li><a href="utilidades/biblioteca">Biblioteca</a></li>
     </ul>
   </div>
 </div>
